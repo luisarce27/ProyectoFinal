@@ -7,9 +7,19 @@ using System.Web.UI.WebControls;
 
 namespace WebApplication1
 {
-    public partial class CrearProveedor : System.Web.UI.Page
+    public partial class CrearProveedor1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void CreateUserWizard1_CreatedUser(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void CreateUserWizard1_CreatedUser1(object sender, EventArgs e)
         {
 
         }
