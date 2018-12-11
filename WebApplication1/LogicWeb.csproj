@@ -69,10 +69,7 @@
   <ItemGroup>
     <Content Include="Confirmacion.aspx" />
     <Content Include="CrearEvento.aspx" />
-    <Content Include="CrearProveedor.aspx" />
     <Content Include="MenuProveedor.aspx" />
-    <Content Include="CrearUsuario.aspx" />
-    <Content Include="Login.aspx" />
     <Content Include="Web.config" />
     <Content Include="Usuario.aspx" />
   </ItemGroup>
@@ -91,33 +88,12 @@
     <Compile Include="CrearEvento.aspx.designer.cs">
       <DependentUpon>CrearEvento.aspx</DependentUpon>
     </Compile>
-    <Compile Include="CrearProveedor.aspx.cs">
-      <DependentUpon>CrearProveedor.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="CrearProveedor.aspx.designer.cs">
-      <DependentUpon>CrearProveedor.aspx</DependentUpon>
-    </Compile>
     <Compile Include="MenuProveedor.aspx.cs">
       <DependentUpon>MenuProveedor.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="MenuProveedor.aspx.designer.cs">
       <DependentUpon>MenuProveedor.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="CrearUsuario.aspx.cs">
-      <DependentUpon>CrearUsuario.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="CrearUsuario.aspx.designer.cs">
-      <DependentUpon>CrearUsuario.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Login.aspx.cs">
-      <DependentUpon>Login.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Login.aspx.designer.cs">
-      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
     <Compile Include="MasterPage.Master.cs">
       <DependentUpon>MasterPage.Master</DependentUpon>
