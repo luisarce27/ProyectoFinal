@@ -1,0 +1,7 @@
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Kim\Documents\Universidad\III Q 2018\DAS\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
